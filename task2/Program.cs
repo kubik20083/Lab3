@@ -1,4 +1,5 @@
-﻿
+﻿//Программа, которая принимает на вход координаты двух точек
+// и находит расстояние между ними в 3D пространстве.
 System.Console.WriteLine("Введите x первой точки");
 int x1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите y первой точки");
